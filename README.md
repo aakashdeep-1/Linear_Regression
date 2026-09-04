@@ -63,6 +63,7 @@ The model's predicted salaries are generated from normalized years of experience
 
 ## Project Structure
 
+```text
 Linear_Regression/
 │
 ├── data/
@@ -73,6 +74,7 @@ Linear_Regression/
 │   └── LinearRegression_using_scikit_learn.ipynb
 │
 └── README.md
+```
 
 ## Purpose
 
